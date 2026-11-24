@@ -13,7 +13,7 @@
    número de VERSION (v1 → v2) para que se descargue lo nuevo.
    ========================================================= */
 
-const VERSION = 'totem-v8';
+const VERSION = 'totem-v9';
 const CACHE_ESTATICO = `${VERSION}-estatico`;
 const CACHE_FUENTES = 'totem-fuentes';
 

@@ -1,0 +1,49 @@
+{
+  "name": "TÓTEM · El videojuego",
+  "short_name": "TÓTEM",
+  "description": "Conoce TÓTEM, un videojuego de plataformas en 2D para salvar los libros de historia de México.",
+  "lang": "es-MX",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "categories": ["education", "games"],
+  "icons": [
+    {
+      "src": "img/iconos/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/iconos/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/iconos/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "img/capturas/escritorio.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Página principal de TÓTEM"
+    },
+    {
+      "src": "img/capturas/celular.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "TÓTEM en el celular"
+    }
+  ]
+}
